@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="226.39999mm"
+   height="139.89999mm"
+   viewBox="0 0 226.39999 139.89999"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="csg7.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.1612897"
+     inkscape:cx="399.12521"
+     inkscape:cy="215.70845"
+     inkscape:window-width="1914"
+     inkscape:window-height="1032"
+     inkscape:window-x="0"
+     inkscape:window-y="42"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <clipPath
+       id="clipPath9122">
+      <path
+         clip-rule="nonzero"
+         d="M 1,1 H 7 V 21.890625 H 1 Z m 0,0"
+         id="path6450" />
+    </clipPath>
+    <clipPath
+       id="clipPath8826">
+      <path
+         clip-rule="nonzero"
+         d="m 64,1 h 5 v 20.890625 h -5 z m 0,0"
+         id="path8075" />
+    </clipPath>
+    <clipPath
+       id="clipPath637">
+      <path
+         clip-rule="nonzero"
+         d="m 103,1 h 6 v 20.890625 h -6 z m 0,0"
+         id="path6657" />
+    </clipPath>
+    <clipPath
+       id="clipPath9260">
+      <path
+         clip-rule="nonzero"
+         d="m 163,1 h 5 v 20.890625 h -5 z m 0,0"
+         id="path1782" />
+    </clipPath>
+    <clipPath
+       id="clipPath1800">
+      <path
+         clip-rule="nonzero"
+         d="m 226,88 h 6 v 9.742188 h -6 z m 0,0"
+         id="path7458" />
+    </clipPath>
+    <clipPath
+       id="clipPath7647">
+      <path
+         clip-rule="nonzero"
+         d="m 179,50 h 10 v 13.792969 h -10 z m 0,0"
+         id="path3516" />
+    </clipPath>
+    <clipPath
+       id="clipPath6251">
+      <path
+         clip-rule="nonzero"
+         d="m 215,50 h 10 v 13.792969 h -10 z m 0,0"
+         id="path3585" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;fill-opacity:0.350897;fill-rule:evenodd;stroke:#000000;stroke-width:1.84535;stroke-dasharray:none;stroke-opacity:1"
+       id="rect896"
+       width="216.69998"
+       height="131.42073"
+       x="4.3457279"
+       y="4.6268582" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="88.279785"
+       y="88.057564"
+       id="text9823"><tspan
+         sodipodi:role="line"
+         id="tspan9821"
+         style="stroke-width:0.264583"
+         x="88.279785"
+         y="88.057564" /></text>
+    <ellipse
+       style="fill:none;fill-opacity:0.855745;fill-rule:evenodd;stroke:#000000;stroke-width:1.013;stroke-dasharray:1.01300001, 1.01300001;stroke-opacity:1;stroke-dashoffset:0"
+       id="path18958"
+       cx="151.01385"
+       cy="69.084099"
+       rx="28.205387"
+       ry="24.89971" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="7.6846805"
+       y="15.737042"
+       id="text21186"><tspan
+         sodipodi:role="line"
+         id="tspan21184"
+         style="stroke-width:0.264583;font-weight:normal"
+         x="7.6846805"
+         y="15.737042">Step 1) define surfaces</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583;font-weight:bold"
+         x="7.6846805"
+         y="28.966166"
+         id="tspan21188">Step 2) define volumes</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="7.6846805"
+         y="42.195293"
+         id="tspan21190">Step 3) define materials</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="7.6846805"
+         y="55.424416"
+         id="tspan21192">             that fill volumes</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.013;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.855745;font-variation-settings:normal;opacity:1;vector-effect:none;stroke-miterlimit:4;stroke-dasharray:1.013, 1.013;stroke-dashoffset:0;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 149.15967,15.546339 0.67045,104.964341"
+       id="path21194" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:0.855745;stroke:#000000;stroke-width:1.07987;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.07987, 1.07987;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 133.47562,27.273387 77.62773,-0.914995"
+       id="path30915" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.013;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-variation-settings:normal;opacity:1;vector-effect:none;fill-opacity:0.855745;stroke-miterlimit:4;stroke-dasharray:1.013, 1.013;stroke-dashoffset:0;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 192.04369,10.979826 0.3424,116.032154"
+       id="path30917" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.013;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-variation-settings:normal;opacity:1;vector-effect:none;fill-opacity:0.855745;stroke-miterlimit:4;stroke-dasharray:1.013, 1.013;stroke-dashoffset:0;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="m 133.63966,114.1668 79.41507,-0.0645"
+       id="path30919" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:0.855745;stroke:#000000;stroke-width:1.2132;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.2132, 1.2132;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="M 128.81642,19.159681 129.4949,112.9413"
+       id="path30921" />
+  </g>
+</svg>
