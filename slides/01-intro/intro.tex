@@ -237,7 +237,7 @@
   \end{equation*}
 \end{frame}
 
-\begin{frame}{Statistics}
+\begin{frame}{Monte Carlo Statistics}
   At the end of a simulation, we have a set of realizations for each tally,
   $\hat{X}_1, \hat{X}_2, \dots, \hat{X}_N$. We can calculate mean and variance
   as
@@ -246,6 +246,23 @@
     s^2_X &= \frac{1}{N-1} \left ( \frac{1}{N} \highlight{\sum\limits_{i=1}^N \hat{X}_i^2} -
     \bar{X}^2 \right )
   \end{align*}
+\end{frame}
+
+\begin{frame}{Monte Carlo Statistics}
+  \begin{columns}
+    \column{0.45\textwidth}
+    \begin{itemize}
+      \item Calculate $\pi$ by sampling!
+      \item $A = \pi r^2$
+      \item Probability of being in circle proportional to its area
+      \item Is inside? $\hat x^2 + \hat y^2 < 1$
+      \item I sample 500 points, 393 land inside
+      \item $\hat \pi \approx 4 \cdot 393 / 500 = 3.144$
+      \item $s_{\hat\pi} = \sqrt{\frac{1}{499} \left(.804 - .646\right)} \approx .02$
+    \end{itemize}
+    \column{0.45\textwidth}
+    \includegraphics[width=\linewidth]{../images/calc_pi.pdf}
+  \end{columns}
 \end{frame}
 
 \begin{frame}{Problem Types}
